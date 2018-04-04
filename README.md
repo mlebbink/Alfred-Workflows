@@ -27,3 +27,5 @@ Add the ```SERVER_NAME``` to the Workflow Environment Variables
 Workflow for managing all accounts in an AWS Organization
 
 Add the ```organization_profile``` to the Workflow Environment Variables. This should be a profile, capable for creating a list for all your accounts.
+
+Currently, is is only able to switch to ```OSCAdmin`` account.
