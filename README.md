@@ -22,3 +22,8 @@ The following will create a keychain-entry:
 Be aware that your username be prefixed by the Domain (domain\username)
 
 Add the ```SERVER_NAME``` to the Workflow Environment Variables
+
+## switchRole
+Workflow for managing all accounts in an AWS Organization
+
+Add the ```organization_profile``` to the Workflow Environment Variables. This should be a profile, capable for creating a list for all your accounts.
